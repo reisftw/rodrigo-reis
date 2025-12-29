@@ -27,12 +27,6 @@ Sou um especialista em TI focado em **Automação de Processos** e **Desenvolvim
 
 ---
 
-### 💼 Experiência Profissional
-* Sempre Internet (Backoffice II | 2024 - Atual):** Coordenação de equipes de campo, gestão de SLAs, suporte N2 e criação de indicadores (KPIs).
-* Inforshow Telecom (Analista de Suporte Técnico | 2019 - 2023):** Diagnóstico de falhas em redes locais (TCP/IP) e suporte técnico N1/N2.
-
----
-
 ### 📫 Vamos nos conectar?
 * **LinkedIn:** [linkedin.com/in/reisftw/](https://www.linkedin.com/in/reisftw/)
 * **E-mail:** rodrigo.reis.divino@gmail.com
